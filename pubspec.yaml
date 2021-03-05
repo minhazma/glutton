@@ -1,7 +1,7 @@
 name: glutton
 description: Flutter shared preferences customized plugin. Secure, Encrypted, Simplified use, Simple key-value pairs storage.
 version: 1.0.5
-homepage: https://github.com/agungnursatria/glutton
+homepage: https://github.com/minhazma/glutton
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
@@ -9,8 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  shared_preferences: ^0.5.7
-  encrypt: ^4.0.0
+  shared_preferences: ^2.0.3
+  encrypt: ^5.0.0-beta.1
 
 dev_dependencies:
   flutter_test:
